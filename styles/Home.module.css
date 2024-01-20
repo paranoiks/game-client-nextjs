@@ -7,6 +7,17 @@
   align-items: center;
 }
 
+.username
+{
+    height:50px;
+    width: 400px;
+    font-size:24pt;
+}
+
+.loginForm {
+  display: flex;
+}
+
 .title a {
   color: #0070f3;
   text-decoration: none;
